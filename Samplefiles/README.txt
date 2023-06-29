@@ -1,0 +1,2 @@
+
+In this directory you will find sample simulation files for Molecular Dynamics (MD) simulations in LAMMPS (version August 2018) and for Monte Carlo (MC) simulations in BRICK-CFCMC (link: https://gitlab.com/ETh_TU_Delft/Brick-CFCMC) for simulating aqueous NaB(OH)4. In each directory a separate README.txt file is provided with more details on the MD and MC simulations.  
